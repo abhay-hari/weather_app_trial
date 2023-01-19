@@ -68,7 +68,7 @@ class HomePageView extends HomePageViewModel {
                             this.cityName = cityName;
                           });
                           openDialoge(); },
-                        child: Text("Change City",
+                        child: Text("Change City +",
                           style: TextStyle(
                               color: Color(0xffFFFFFF),
                               fontFamily:'Poppins-Medium.ttf',
